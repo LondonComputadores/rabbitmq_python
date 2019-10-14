@@ -14,7 +14,7 @@ print(res.status_code)
 print(res.headers)
 print(res.text)
 
-API_KEY = '91108812-7765-4a17-8541-244739155c47'
+API_KEY = 'Any-Working-API-Key'
 
 url = 'https://api.cloudamqp.com/api/integrations/metrics'
 
